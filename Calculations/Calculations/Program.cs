@@ -75,6 +75,10 @@
                 Console.WriteLine("Result: {0}", output);
             }
 
+            if (answer == 3) {
+                Console.WriteLine("X");
+            }
+
             Console.WriteLine("Press any key to close");
             Console.ReadLine();
         }
