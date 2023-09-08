@@ -1,0 +1,14 @@
+C:\Users\mikke\OneDrive\Skrivebord\Programming\C Sharp\firstProgram\firstProgram\bin\Debug\net6.0\firstProgram.exe
+C:\Users\mikke\OneDrive\Skrivebord\Programming\C Sharp\firstProgram\firstProgram\bin\Debug\net6.0\firstProgram.deps.json
+C:\Users\mikke\OneDrive\Skrivebord\Programming\C Sharp\firstProgram\firstProgram\bin\Debug\net6.0\firstProgram.runtimeconfig.json
+C:\Users\mikke\OneDrive\Skrivebord\Programming\C Sharp\firstProgram\firstProgram\bin\Debug\net6.0\firstProgram.dll
+C:\Users\mikke\OneDrive\Skrivebord\Programming\C Sharp\firstProgram\firstProgram\bin\Debug\net6.0\firstProgram.pdb
+C:\Users\mikke\OneDrive\Skrivebord\Programming\C Sharp\firstProgram\firstProgram\obj\Debug\net6.0\firstProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikke\OneDrive\Skrivebord\Programming\C Sharp\firstProgram\firstProgram\obj\Debug\net6.0\firstProgram.AssemblyInfoInputs.cache
+C:\Users\mikke\OneDrive\Skrivebord\Programming\C Sharp\firstProgram\firstProgram\obj\Debug\net6.0\firstProgram.AssemblyInfo.cs
+C:\Users\mikke\OneDrive\Skrivebord\Programming\C Sharp\firstProgram\firstProgram\obj\Debug\net6.0\firstProgram.csproj.CoreCompileInputs.cache
+C:\Users\mikke\OneDrive\Skrivebord\Programming\C Sharp\firstProgram\firstProgram\obj\Debug\net6.0\firstProgram.dll
+C:\Users\mikke\OneDrive\Skrivebord\Programming\C Sharp\firstProgram\firstProgram\obj\Debug\net6.0\refint\firstProgram.dll
+C:\Users\mikke\OneDrive\Skrivebord\Programming\C Sharp\firstProgram\firstProgram\obj\Debug\net6.0\firstProgram.pdb
+C:\Users\mikke\OneDrive\Skrivebord\Programming\C Sharp\firstProgram\firstProgram\obj\Debug\net6.0\firstProgram.genruntimeconfig.cache
+C:\Users\mikke\OneDrive\Skrivebord\Programming\C Sharp\firstProgram\firstProgram\obj\Debug\net6.0\ref\firstProgram.dll

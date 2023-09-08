@@ -1,0 +1,14 @@
+C:\Users\mikke\OneDrive\Skrivebord\Programming\C Sharp\Calculations\Calculations\obj\Debug\net6.0\Calculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikke\OneDrive\Skrivebord\Programming\C Sharp\Calculations\Calculations\obj\Debug\net6.0\Calculations.AssemblyInfoInputs.cache
+C:\Users\mikke\OneDrive\Skrivebord\Programming\C Sharp\Calculations\Calculations\obj\Debug\net6.0\Calculations.AssemblyInfo.cs
+C:\Users\mikke\OneDrive\Skrivebord\Programming\C Sharp\Calculations\Calculations\obj\Debug\net6.0\Calculations.csproj.CoreCompileInputs.cache
+C:\Users\mikke\OneDrive\Skrivebord\Programming\C Sharp\Calculations\Calculations\bin\Debug\net6.0\Calculations.exe
+C:\Users\mikke\OneDrive\Skrivebord\Programming\C Sharp\Calculations\Calculations\bin\Debug\net6.0\Calculations.deps.json
+C:\Users\mikke\OneDrive\Skrivebord\Programming\C Sharp\Calculations\Calculations\bin\Debug\net6.0\Calculations.runtimeconfig.json
+C:\Users\mikke\OneDrive\Skrivebord\Programming\C Sharp\Calculations\Calculations\bin\Debug\net6.0\Calculations.dll
+C:\Users\mikke\OneDrive\Skrivebord\Programming\C Sharp\Calculations\Calculations\bin\Debug\net6.0\Calculations.pdb
+C:\Users\mikke\OneDrive\Skrivebord\Programming\C Sharp\Calculations\Calculations\obj\Debug\net6.0\Calculations.dll
+C:\Users\mikke\OneDrive\Skrivebord\Programming\C Sharp\Calculations\Calculations\obj\Debug\net6.0\refint\Calculations.dll
+C:\Users\mikke\OneDrive\Skrivebord\Programming\C Sharp\Calculations\Calculations\obj\Debug\net6.0\Calculations.pdb
+C:\Users\mikke\OneDrive\Skrivebord\Programming\C Sharp\Calculations\Calculations\obj\Debug\net6.0\Calculations.genruntimeconfig.cache
+C:\Users\mikke\OneDrive\Skrivebord\Programming\C Sharp\Calculations\Calculations\obj\Debug\net6.0\ref\Calculations.dll
