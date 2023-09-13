@@ -6,16 +6,33 @@ namespace firstProgram
     {
         static void Main(string[] args)
         {
-            string? str = "";
+            Console.WriteLine("Write a input:");
+            // Initalize variables
+            int a;
+            int b;
 
-            do
-            {
-                str = Console.ReadLine();
-            } while (!(str.Length > 5));
-            Console.WriteLine(str[3]);
-            Console.WriteLine(str[2]);
-            Console.WriteLine(str[4]);
+            // Get input1
+            while (!int.TryParse(Console.ReadLine(), out a)) {
+                Console.WriteLine("Invalid input!");
+            }
+
+            // Get input2
+            while (!int.TryParse(Console.ReadLine(), out b) || b == 0) {
+                Console.WriteLine("Invalid input!");
+            }
+
+            int output = a / b;
+            int output2 = a % b;
+
+            Console.WriteLine("A: {0} B: {1}", a, b);
+            Console.WriteLine("Heltalskvotienten: {0}", output);
+
+            Console.WriteLine("Rest delen: {0}", output2);
+
+            // Debug
             Console.ReadLine();
+
+
         }
     }
 }
