@@ -9,7 +9,13 @@ namespace Calculator
 {
     internal class Lommeregner
     {
-        // Add
+        /*
+            En helt normal method som diffineret under består af:
+            Public: Access modifier
+            Int: Return type
+            Sum: Method name
+            (int x, int y): Parameters and their datatype
+            */
         public int Add(int x, int y)
         {
             return x + y;

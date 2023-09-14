@@ -19,20 +19,6 @@ namespace firstProgram
                 }
                 index++;
             }
-            /*
-            Public: Access modifier
-            Int: Return type
-            Sum: Method name
-            (int x, int y): Parameters/inputs and their datatype
-            */
-
-            public int Sum(int x, int y)
-            {
-                return x + y;
-            }
-
-            Calculator calc = new Calculator();
-            Console.WriteLine(calc.Sum(5, 10));
 
             // Debug
             Console.ReadLine();
