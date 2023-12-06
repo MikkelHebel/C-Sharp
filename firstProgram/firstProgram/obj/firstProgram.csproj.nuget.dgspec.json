@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\mikke\\OneDrive\\Skrivebord\\Programming\\C Sharp\\firstProgram\\firstProgram\\firstProgram.csproj": {}
+    "C:\\Users\\mikke\\OneDrive\\Skrivebord\\Programming\\C Sharp\\firstProgram\\firstProgram\\firstProgram.csproj": {}
   },
   "projects": {
-    "c:\\Users\\mikke\\OneDrive\\Skrivebord\\Programming\\C Sharp\\firstProgram\\firstProgram\\firstProgram.csproj": {
+    "C:\\Users\\mikke\\OneDrive\\Skrivebord\\Programming\\C Sharp\\firstProgram\\firstProgram\\firstProgram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\mikke\\OneDrive\\Skrivebord\\Programming\\C Sharp\\firstProgram\\firstProgram\\firstProgram.csproj",
+        "projectUniqueName": "C:\\Users\\mikke\\OneDrive\\Skrivebord\\Programming\\C Sharp\\firstProgram\\firstProgram\\firstProgram.csproj",
         "projectName": "firstProgram",
-        "projectPath": "c:\\Users\\mikke\\OneDrive\\Skrivebord\\Programming\\C Sharp\\firstProgram\\firstProgram\\firstProgram.csproj",
+        "projectPath": "C:\\Users\\mikke\\OneDrive\\Skrivebord\\Programming\\C Sharp\\firstProgram\\firstProgram\\firstProgram.csproj",
         "packagesPath": "C:\\Users\\mikke\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\mikke\\OneDrive\\Skrivebord\\Programming\\C Sharp\\firstProgram\\firstProgram\\obj\\",
+        "outputPath": "C:\\Users\\mikke\\OneDrive\\Skrivebord\\Programming\\C Sharp\\firstProgram\\firstProgram\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mikke\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,14 @@
+C:\Users\mikke\OneDrive\Skrivebord\Programming\BonusApp\AppThing\AppThing\obj\Debug\net6.0\AppThing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikke\OneDrive\Skrivebord\Programming\BonusApp\AppThing\AppThing\obj\Debug\net6.0\AppThing.AssemblyInfoInputs.cache
+C:\Users\mikke\OneDrive\Skrivebord\Programming\BonusApp\AppThing\AppThing\obj\Debug\net6.0\AppThing.AssemblyInfo.cs
+C:\Users\mikke\OneDrive\Skrivebord\Programming\BonusApp\AppThing\AppThing\obj\Debug\net6.0\AppThing.csproj.CoreCompileInputs.cache
+C:\Users\mikke\OneDrive\Skrivebord\Programming\BonusApp\AppThing\AppThing\bin\Debug\net6.0\AppThing.exe
+C:\Users\mikke\OneDrive\Skrivebord\Programming\BonusApp\AppThing\AppThing\bin\Debug\net6.0\AppThing.deps.json
+C:\Users\mikke\OneDrive\Skrivebord\Programming\BonusApp\AppThing\AppThing\bin\Debug\net6.0\AppThing.runtimeconfig.json
+C:\Users\mikke\OneDrive\Skrivebord\Programming\BonusApp\AppThing\AppThing\bin\Debug\net6.0\AppThing.dll
+C:\Users\mikke\OneDrive\Skrivebord\Programming\BonusApp\AppThing\AppThing\bin\Debug\net6.0\AppThing.pdb
+C:\Users\mikke\OneDrive\Skrivebord\Programming\BonusApp\AppThing\AppThing\obj\Debug\net6.0\AppThing.dll
+C:\Users\mikke\OneDrive\Skrivebord\Programming\BonusApp\AppThing\AppThing\obj\Debug\net6.0\refint\AppThing.dll
+C:\Users\mikke\OneDrive\Skrivebord\Programming\BonusApp\AppThing\AppThing\obj\Debug\net6.0\AppThing.pdb
+C:\Users\mikke\OneDrive\Skrivebord\Programming\BonusApp\AppThing\AppThing\obj\Debug\net6.0\AppThing.genruntimeconfig.cache
+C:\Users\mikke\OneDrive\Skrivebord\Programming\BonusApp\AppThing\AppThing\obj\Debug\net6.0\ref\AppThing.dll
