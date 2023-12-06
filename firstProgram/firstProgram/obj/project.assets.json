@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mikke\\OneDrive\\Skrivebord\\Programming\\C Sharp\\firstProgram\\firstProgram\\firstProgram.csproj",
+      "projectUniqueName": "c:\\Users\\mikke\\OneDrive\\Skrivebord\\Programming\\C Sharp\\firstProgram\\firstProgram\\firstProgram.csproj",
       "projectName": "firstProgram",
-      "projectPath": "C:\\Users\\mikke\\OneDrive\\Skrivebord\\Programming\\C Sharp\\firstProgram\\firstProgram\\firstProgram.csproj",
+      "projectPath": "c:\\Users\\mikke\\OneDrive\\Skrivebord\\Programming\\C Sharp\\firstProgram\\firstProgram\\firstProgram.csproj",
       "packagesPath": "C:\\Users\\mikke\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mikke\\OneDrive\\Skrivebord\\Programming\\C Sharp\\firstProgram\\firstProgram\\obj\\",
+      "outputPath": "c:\\Users\\mikke\\OneDrive\\Skrivebord\\Programming\\C Sharp\\firstProgram\\firstProgram\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mikke\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

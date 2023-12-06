@@ -14,7 +14,11 @@
                 Console.WriteLine("4. Multiplication");
 
                 // Start method
+<<<<<<< HEAD
                 Calculator regner = new Calculator();
+=======
+                Lommeregner regner = new Lommeregner();
+>>>>>>> 87531e7797464f76470a876cbc6809fdba3c8f80
 
                 string? ans = Console.ReadLine();
                 int.TryParse(ans, out int number);
