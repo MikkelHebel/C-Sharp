@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\RandomStuff",
+    "\\RandomStuff\\TextStrings",
+    "\\RandomStuff\\TextStrings\\TextStrings"
   ],
+  "SelectedNode": "\\RandomStuff\\TextStrings\\TextStrings\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
