@@ -5,8 +5,68 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:NavigationMenu"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
+        Title="MainWindow"
+        Height="700"
+        Width="900"
+        WindowStyle="None"
+        AllowsTransparency="True"
+        WindowStartupLocation="CenterScreen">
+    
+    <!-- Background Grid -->
+    
+    <Grid Background="#23262B">
 
+        <TextBlock Text="Watermark"
+                   Foreground="#525965"
+                   FontSize="10"
+                   FontFamily="Fonts/#Orbitron Medium"
+                   VerticalAlignment="Top"
+                   HorizontalAlignment="Right"
+                   Margin="0,15,10,0" />
+
+        <!-- Navigation Menu -->
+        <StackPanel Background="#2E333A"
+                    Width="230"
+                    HorizontalAlignment="Left"
+                    Orientation="Vertical">
+
+            <Grid Height="50"
+                  VerticalAlignment="Top"
+                  Margin="0,35,0,0">
+
+                <Border Background="#D61734"
+                        Height="25"
+                        CornerRadius="3,0,0,0"
+                        Width="6"
+                        VerticalAlignment="Center"
+                        HorizontalAlignment="Left" />
+
+                <TextBlock Text="Navigation Menu"
+                           Foreground="White"
+                           FontSize="20"
+                           FontFamily="Fonts/#Orbitron Medium"
+                           VerticalAlignment="Center"
+                           HorizontalAlignment="Center" />
+
+            </Grid>
+
+            <Menu Height="450"
+                  Background="Transparent"
+                  Margin="0,30,0,0">
+
+                <Menu.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <VirtualizingStackPanel Orientation="Vertical" />
+                    </ItemsPanelTemplate>
+                </Menu.ItemsPanel>
+
+                <!-- Navigation Items -->
+
+                <MenuItem Header="Home"
+                          Template="{StaticResource Menu_Template}">
+                </MenuItem>
+            </Menu>
+                  
+        </StackPanel>
     </Grid>
 </Window>
