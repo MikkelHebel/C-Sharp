@@ -21,9 +21,9 @@
                    Foreground="#525965"
                    FontSize="10"
                    FontFamily="Fonts/#Orbitron Medium"
-                   VerticalAlignment="Top"
-                   HorizontalAlignment="Right"
-                   Margin="0,15,10,0" />
+                   VerticalAlignment="Bottom"
+                   HorizontalAlignment="Left"
+                   Margin="240,0,0,10" />
 
         <!-- Navigation Menu -->
         <StackPanel Background="#2E333A"
@@ -76,10 +76,18 @@
                 </MenuItem>
                 
                 <MenuItem Header="Quit"
-                          Template="{StaticResource Menu_Template}" Click="MenuItem_Click">
+                          Template="{StaticResource Menu_Template}" Click="StackPanel_Click">
                 </MenuItem>
             </Menu>
                   
         </StackPanel>
+        
+        <!-- Top right buttons -->
+
+        <Button x:Name="MaxBtn"
+                Style="{StaticResource MaxBtnStyle}" Click="MaxBtn_Click" />
+        <Button x:Name="CloseBtn"
+                Style="{StaticResource CloseBtnStyle}" Click="CloseBtn_Click" />
+        
     </Grid>
 </Window>

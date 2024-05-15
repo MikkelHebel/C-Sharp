@@ -298,13 +298,13 @@
 
     <!--// Maximize / Minimize App Button Style //-->
 
-    <!--<ImageBrush x:Key="max_def"
+    <ImageBrush x:Key="max_def"
                 ImageSource="Assets/max_def.png"
                 Stretch="None" />
 
     <ImageBrush x:Key="max_mo"
                 ImageSource="Assets/max_mo.png"
-                Stretch="None" />-->
+                Stretch="None" />
 
     <Style x:Key="MaxBtnStyle"
            TargetType="{x:Type Button}">
@@ -320,7 +320,7 @@
         <Setter Property="Margin"
                 Value="0,20,60,0" />
 
-        <!--<Setter Property="Template">
+        <Setter Property="Template">
 
             <Setter.Value>
 
@@ -356,7 +356,7 @@
 
             </Setter.Value>
 
-        </Setter>-->
+        </Setter>
 
 
     </Style>
@@ -364,13 +364,13 @@
 
     <!--// Close App Button Style //-->
 
-    <!--<ImageBrush x:Key="close_def"
+    <ImageBrush x:Key="close_def"
                 ImageSource="Assets/shutdown_def.png"
                 Stretch="None" />
 
     <ImageBrush x:Key="close_mo"
                 ImageSource="Assets/shutdown_mo.png"
-                Stretch="None" />-->
+                Stretch="None" />
 
     <Style x:Key="CloseBtnStyle"
            TargetType="{x:Type Button}">
@@ -386,7 +386,7 @@
         <Setter Property="Margin"
                 Value="0,20,18,0" />
 
-        <!--<Setter Property="Template">
+        <Setter Property="Template">
 
             <Setter.Value>
 
@@ -422,7 +422,7 @@
 
             </Setter.Value>
 
-        </Setter>-->
+        </Setter>
 
 
     </Style>
