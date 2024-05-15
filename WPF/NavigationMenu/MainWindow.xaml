@@ -3,6 +3,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:fa="http://schemas.fontawesome.io/icons/"
         xmlns:local="clr-namespace:NavigationMenu"
         mc:Ignorable="d"
         Title="MainWindow"
@@ -11,9 +12,9 @@
         WindowStyle="None"
         AllowsTransparency="True"
         WindowStartupLocation="CenterScreen">
-    
+
     <!-- Background Grid -->
-    
+
     <Grid Background="#23262B">
 
         <TextBlock Text="Watermark"
@@ -62,8 +63,20 @@
 
                 <!-- Navigation Items -->
 
-                <MenuItem Header="Home"
+                <MenuItem Header="GitHub"
                           Template="{StaticResource Menu_Template}">
+                </MenuItem>
+                
+                <MenuItem Header="Settings"
+                          Template="{StaticResource Menu_SubMenu_Template}">
+
+                    <MenuItem Header="Secret Menu"
+                              Template="{StaticResource Item_Template}">
+                    </MenuItem>
+                </MenuItem>
+                
+                <MenuItem Header="Quit"
+                          Template="{StaticResource Menu_Template}" Click="MenuItem_Click">
                 </MenuItem>
             </Menu>
                   
